@@ -18,7 +18,7 @@ package_lock.json
 .idea
 .DS_Store
 *.suo
-*.ntvs*
+*.ntvs*9
 *.njsproj
 *.sln
 *.sw?
